@@ -2,6 +2,7 @@
 
 **FitSport AI** is a comprehensive AI-powered fitness assistant built using **Streamlit**, offering features such as workout tracking, real-time training with pose detection, nutrition analysis, video tutorials, and an interactive chatbot to guide users through personalized workout routines.
 
+---
 ## 🚀 Features
 
 ### 🔐 Authentication
@@ -50,7 +51,7 @@
 - Built using **Gemini AI API** (Google Generative AI).
 - Friendly fitness assistant to help build personalized workout plans.
 - Maintains a conversational tone and memory of the chat.
-
+---
 ## 📂 Project Structure
 
 ```plaintext
@@ -66,3 +67,33 @@
 ├── /gif/                   # Animated exercise gifs
 ├── /styles/                # Custom CSS styling
 └── food1.csv               # Nutrition data file
+
+```
+---
+## 🛠️ Tech Stack
+
+- **Frontend/UI:** Streamlit, Plotly, Matplotlib, Lottie  
+- **AI/ML & CV:** OpenCV, Pose Detection (cvzone)  
+- **Authentication & Database:** Firebase, Firestore  
+- **Chatbot:** Gemini AI (Google Generative AI)  
+- **Data Visualization:** Plotly, Pandas, NumPy  
+
+---
+
+## ✅ Prerequisites
+
+- Python 3.8+
+- Webcam access for training module
+- Firebase Project Setup
+- Gemini API Key
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/YashPatel5652/FitSportAI.git
+cd FitSportAI
+pip install -r requirements.txt
+```
+---
