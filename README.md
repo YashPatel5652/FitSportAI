@@ -1,5 +1,3 @@
----
-
 # 🏋️‍♂️ FitSport AI
 
 **FitSport AI** is a comprehensive AI-powered fitness assistant built using **Streamlit**, offering features such as workout tracking, real-time training with pose detection, nutrition analysis, video tutorials, and an interactive chatbot to guide users through personalized workout routines.
