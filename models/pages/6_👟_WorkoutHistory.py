@@ -7,7 +7,7 @@ import plotly.express as px
 
 # Initialize Firebase
 if not firebase_admin._apps:
-    cred = credentials.Certificate("C:/Users/Dell/Desktop/Project\AI-Fitness-trainer-main/fitsportai-firebase-adminsdk-fbsvc-eba82582ec.json")
+    cred = credentials.Certificate("PATH_OF_YOUR_FIREBASE_ADMIN_JASON_FILE")
     firebase_admin.initialize_app(cred)
 db = firestore.client()
 
