@@ -7,7 +7,7 @@ from PIL import Image
 import pyrebase 
 
 firebaseConfig = {
-    "apiKey": "AIzaSyC7TtgGI5SnxZc4aDZHUd7fWH7M8H2KRsg",
+    "apiKey": "Your Firebase API Key",
     "authDomain": "your-project-id.firebaseapp.com",
     "databaseURL": "https://your-project-id.firebaseio.com",
     "projectId": "your-project-id",
@@ -140,7 +140,7 @@ if "user_id" in st.session_state:
         st.write("##")
 
         contact_form = """
-        <form action="https://formsubmit.co/yp1102003@gmail.com" method="POST">
+        <form action="https://formsubmit.co/YOUR_EMAIL_ID" method="POST">
             <input type="hidden" name="_captcha" value="false">
             <input type="text" name="name" placeholder="Your name" required>
             <input type="email" name="email" placeholder="Your email" required>
