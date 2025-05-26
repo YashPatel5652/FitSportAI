@@ -115,6 +115,19 @@ streamlit run 1_🏠_HomePage.py
 ```
 ---
 
+## 📃 License
+
+This project is released under the **MIT License**. Feel free to modify and use it as needed.
+
+---
+
+## 🙋‍♂️ Author
+
+**Yash Patel**  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/yash-patel-bb2984303/) | [GitHub](https://github.com/YashPatel5652)
+
+---
+
 ## 📌 To Do
 
 - [ ] Improve error handling and validation  
